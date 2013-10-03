@@ -9,6 +9,6 @@ awesome :)
 
 The idea of the FishTank is that there are various types of fish. Each has a
 different behavior and in each "tick" or iteration they swim, eat and maybe die.
-This has allowed me to try out a surprising amount of concept that make Ruby.
+This has allowed me to try out a surprising amount of concepts within Ruby.
 
 To try it out just run `ruby test.rb`
